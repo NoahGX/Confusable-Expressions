@@ -28,4 +28,4 @@ The purpose of this Jupyter Notebook is to demonstrate how to use probabilistic 
 
 ## Notes
 - Ensure that all dependencies are installed before running the notebook.
-- This is a lower-level understanding of probabilistic language models and Python programming.
+- This is a lower-level understanding of probabilistic language models.
