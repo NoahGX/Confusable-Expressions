@@ -16,7 +16,7 @@ The purpose of this Jupyter Notebook is to demonstrate how to use probabilistic 
 ## Prerequisites
 - Python 3.x
 - Jupyter Notebook or JupyterLab
-- Libraries: `ipykernel`, `ipytest`, and other standard libraries.
+- Libraries: `ipykernel`, `ipytest`, and other Python standard libraries.
 
 ## Input
 - **Training Data**: A set of sentences with correct usage of the target words.
