@@ -1,4 +1,4 @@
-# Confusable-Expressions
+# Confusable Expressions
 
 ## Overview
 The purpose of this Jupyter Notebook is to demonstrate how to use probabilistic models to solve word confusion errors in textual data. It uses bigram and trigram models to predict and correct confusion errors among homophones like "their", "there", and "they're".
@@ -16,7 +16,7 @@ The purpose of this Jupyter Notebook is to demonstrate how to use probabilistic 
 ## Prerequisites
 - Python 3.x
 - Jupyter Notebook or JupyterLab
-- Libraries: `ipykernel`, `ipytest`, and other Python standard libraries.
+- Libraries: `ipykernel`, `ipytest`, and other standard libraries.
 
 ## Input
 - **Training Data**: A set of sentences with correct usage of the target words.
@@ -27,5 +27,5 @@ The purpose of this Jupyter Notebook is to demonstrate how to use probabilistic 
 - Detailed performance metrics of the model.
 
 ## Notes
-- Ensure that all dependencies are installed before running the notebook.
-- This is a lower-level understanding of probabilistic language models.
+- Ensure that all dependencies are installed before running the project.
+- This notebook is basic in order to illustrate an overview of probabilistic language models and requires modifications for production use.
